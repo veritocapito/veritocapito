@@ -1,0 +1,29 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Veronica",
+      "surnames": "S. Capobianco",
+      "title": "FrontEnd Developer | HTML | CSS | Javascript | React | Contadora Publica | Payroll |",
+      "description": "Desde 2020 complementando mi carrera de profesional contable con la programación web. Responsable, comprometida y determinada. Creo en la capacitación constante y los nuevos desafíos. Trabaje en proyectos con HTML, CSS, Javascript, Angular, Java, SpringBoot. \n\nEn mi trayectoria laboral he asumido altos niveles de responsabilidad y adquirido habilidades interpersonales. Aporte valor en la implementación de sistemas informáticos y soluciones tecnológicas.\n \nBusco mi primera experiencia en IT, como desarrolladora front end."
+    }
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/vscapobianco",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "veronica@estudiocapobianco.com.ar"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
