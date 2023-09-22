@@ -14,8 +14,7 @@
 <br>
 - 🌱 I’m currently learning **Javascript, React and Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://veritocapito.github.io/Alura_Portfolio/](https://veritocapito.github.io/Alura_Portfolio/)
-@@ -13,11 +18,14 @@
+- 👨‍💻 All of my projects are available at [https://portfolio-workertech.vercel.app/]
 
 - 📫 How to reach me **veritocapito@gmail.com**
 
